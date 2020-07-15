@@ -1,0 +1,13 @@
+C:\Users\NewForce\workspace\back-end\book1\dictionaries\bin\Debug\netcoreapp3.1\dictionaries.exe
+C:\Users\NewForce\workspace\back-end\book1\dictionaries\bin\Debug\netcoreapp3.1\dictionaries.deps.json
+C:\Users\NewForce\workspace\back-end\book1\dictionaries\bin\Debug\netcoreapp3.1\dictionaries.runtimeconfig.json
+C:\Users\NewForce\workspace\back-end\book1\dictionaries\bin\Debug\netcoreapp3.1\dictionaries.runtimeconfig.dev.json
+C:\Users\NewForce\workspace\back-end\book1\dictionaries\bin\Debug\netcoreapp3.1\dictionaries.dll
+C:\Users\NewForce\workspace\back-end\book1\dictionaries\bin\Debug\netcoreapp3.1\dictionaries.pdb
+C:\Users\NewForce\workspace\back-end\book1\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.csprojAssemblyReference.cache
+C:\Users\NewForce\workspace\back-end\book1\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.AssemblyInfoInputs.cache
+C:\Users\NewForce\workspace\back-end\book1\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.AssemblyInfo.cs
+C:\Users\NewForce\workspace\back-end\book1\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\NewForce\workspace\back-end\book1\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.dll
+C:\Users\NewForce\workspace\back-end\book1\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.pdb
+C:\Users\NewForce\workspace\back-end\book1\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.genruntimeconfig.cache
